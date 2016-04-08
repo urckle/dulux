@@ -1,7 +1,7 @@
 package paint.batch.domain;
 
 /**
- * Created by manninga on 22/3/14
+ * Created by manninga on 26/3/16
  */
 public class PaintPref {
 

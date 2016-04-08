@@ -7,7 +7,7 @@ You want to mix the colors, so that:
    * For each customer, there is at least one color they like.
    * You make as few mattes as possible (because they are more expensive).
 
-Your program should accept an input file as a command line argument, and print a result to standard out.  An example input file is 'order_1.txt':
+Your program should accept an input file as a command line argument, and print a result to standard out.  An example input file is ('order_1.txt'):
 
 5
 1 M 3 G 5 G

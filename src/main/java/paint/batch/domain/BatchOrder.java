@@ -3,7 +3,7 @@ package paint.batch.domain;
 import java.util.List;
 
 /**
- * Created by manninga on 22/3/14
+ * Created by manninga on 26/3/16
  */
 public class BatchOrder {
 

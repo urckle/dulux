@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by manninga on 22/3/14
+ * Created by manninga on 26/3/16
  *
  * TODO: can I get away with char[]??
  *  e.g. char[] customer_1 = {'m','\u0000','g','\u0000','g'};
